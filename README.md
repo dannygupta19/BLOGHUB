@@ -37,6 +37,6 @@ If you try to submit without filling blog details then it show that field is man
 
 # Note 
 
-All the blogs stored locally by using redux so if you restart the application all the changes will fade away.
+All the blogs stored locally by using redux so if you restart the application all the changes will disappear.
 
 
