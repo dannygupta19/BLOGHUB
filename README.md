@@ -1,5 +1,7 @@
 # BLOGHUB
 
+The blog app is created using React and Redux, enabling users to post, edit, delete, and like blogs.
+
 # How to Run
 
 1.Open This Project in Visual Studio
